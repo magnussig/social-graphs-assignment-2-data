@@ -1,0 +1,1 @@
+['Special:ApiFeatureUsage', 'S.W.O.R.D.']

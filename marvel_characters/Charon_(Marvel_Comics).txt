@@ -1,0 +1,1 @@
+['Special:ApiFeatureUsage', 'villain', 'American comic book', 'Marvel Comics', 'X-Factor (comics)|X-Factor', 'Mutant (Marvel Comics)|mutant', 'Random (comics)|Random', 'Strong Guy|Guido Carosella', 'occult', 'Ouija', 'superhuman', 'Charon (mythology)|Charon', 'X-Factor (comics)|X-Factor', 'Category:Marvel Comics supervillains']

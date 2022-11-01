@@ -1,0 +1,1 @@
+['Special:ApiFeatureUsage', 'Captain Britain#Captain Britain Corps', 'mw:Manual:ResourceLoaderSkinModule']

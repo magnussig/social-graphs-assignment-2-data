@@ -1,0 +1,1 @@
+['Special:ApiFeatureUsage', 'Daily Bugle#The DB']

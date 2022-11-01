@@ -1,0 +1,1 @@
+['Special:ApiFeatureUsage', 'Adam Warlock#The Goddess', 'Category:Characters created by Jim Starlin', 'Category:Marvel Comics supervillains']
